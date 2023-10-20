@@ -1,1 +1,2 @@
 # Time_series_forecasting
+A time series based regression dataset having data of number of cycles rented daily from 21 checkpoints in the city. Weather data is also provided for each day throughout the year.
